@@ -1,9 +1,5 @@
 # CODSOFT
 
-Here’s a GitHub README description for your `credit_card_fraud_detection.py` file:
-
----
-
 ## Task 2: Credit Card Fraud Detection
 
 This project aims to build a machine learning model to detect fraudulent credit card transactions. Using the provided dataset, the model classifies each transaction as either legitimate or fraudulent, helping financial institutions prevent fraud and reduce losses.
